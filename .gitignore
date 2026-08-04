@@ -1,0 +1,13 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+
+# Archivos temporales
+Untitled.ipynb
+
+
+# Archivos temporales
+Untitled.ipynb
+
